@@ -1,0 +1,92 @@
+================================================================================
+                       Hymns of the Atharva Veda
+================================================================================
+
+Extracts from the ritual books and the commentaries translated by Maurice
+Bloomfield. Sacred Books of the East, volume 42 [1897]
+
+[Editor's Note: this, the 42nd volume of the Sacred Books of the East, is
+an anthology of representative texts from the Atharva-veda, the fourth Veda.
+Since the order is not that of the original, I have inserted a five-digit
+number in wavy brackets in front of each hymn, where the first two digits
+indicate the book and the remaining three digits the hymn number. For
+instance, {07044} designates the 44th hymn of the 7th book. This is to assist
+in searching if you know which hymn you are looking for. Due to time
+considerations, I have omitted most of the introduction and the annotations.]
+
+================================================================================
+                       Excerpt from the Introduction
+================================================================================
+
+The present volume of translations comprises about one third of the entire
+material of the Atharva-veda in the text of the Saunaka-school. Yet it
+represents the contents and spirit of the fourth Veda in a far greater measure
+than is indicated by this numerical statement. The twentieth book of the
+Samhita, with the exception of the so-called kuntapasuktini (hymns 127-136),
+appears to be a verbatim repetition of mantras contained in the Rig-veda,
+being employed in the Vaitana-sutra at the sastras and stotras of the
+soma-sacrifice: it is altogether foreign to the spirit of the original
+Atharvan. The nineteenth book is a late addendum, generally very corrupt; its
+omission (with the exception of hymns 26, 34, 35, 38, 39, 53, and 54) does
+not detract greatly from the general impression left by the body of the
+collection. The seventeenth book consists of a single hymn of inferior
+interest. Again, books XV and XVI, the former entirely Brahmanical prose, the
+latter almost entirely so, are of doubtful quality and chronology. Finally,
+books XIV and XVIII contain respectively the wedding and funeral stanzas of
+the Atharvan, and coincide largely with corresponding mantras of the tenth
+book of the Rig-veda: they are, granted their intrinsic interest, not
+specifically Atharvanic. Of the remainder of the Atharvan (books I-XIII)
+there is presented here about one half, naturally that half which seemed to
+the translator the most interesting and characteristic. Since not a little of
+the collection rises scarcely above the level of mere verbiage, the process
+of exclusion has not called for any great degree of abstemiousness.
+
+These successive acts of exclusion have made it possible to present a fairly
+complete history of each of the hymns translated. The employment of the hymns
+in the Atharvanic practices stands in closer touch with the original purpose
+of the composition or compilation of the hymns than is true in the case of
+the other collections of Vedic hymns. Often, though by no means always, the
+practices connected with a given hymn provide the key to the correct
+interpretation of the hymn itself. In any case, it is instructive to see what
+the Atharvan priests did with the hymns of their own school, even if we must
+judge their performances to be secondary.
+
+I do not consider any translation of the AV. at this time to be final. The
+most difficult problem, hardly yet ripe for final solution, is the original
+function of many mantras, after they have been stripped of certain adaptive
+modifications imparted to them to meet the immediate purpose of the
+Atharvavedin. Not infrequently a stanza must be rendered in some measure of
+harmony with its context, when, in fact, a more original meaning, not at all
+applicable to its present environment, is but scantily covered over by the
+secondary modifications of the text. This garbled tradition of the ancient
+texts partakes of the character of popular etymology in the course of the
+transmission of words. New meaning is read into the mantras, and any slight
+stubbornness on their part is met with modifications of their wording. The
+critic encounters here a very difficult situation: a searching investigation
+of the remaining Vedic collections is necessary before a bridge can be built
+from the more original meaning to the meaning implied and required by the
+situation in a given Atharvan hymn. Needless to say, the only correct and
+useful way to translate a mantra in the Atharvan is to reproduce it with the
+bent which it has received in the Atharvan. The other Vedic collections are
+by no means free from the same taint. The entire Vedic tradition, the
+Rig-veda not excepted, presents rather the conclusion than the beginning of a
+long period of literary activity. Conventionality of subject-matter, style,
+and form (metre), &c., betrays itself at every step: the 'earliest' books of
+the RV. are not exempt from the same processes of secondary grouping and
+adaptation of their mantras, though these are less frequent and less obvious
+than is the case in the Atharva-veda.
+
+Obligations to previous translators: Weber, Muir, Ludwig, Zimmer, Grill,
+Henry, &c., are acknowledged in the introduction to each hymn. I regret that
+the work was in the hands of the printer prior to the appearance of Professor
+Henry's excellent version of books X-XII. The late lamented Professor Whitney
+kindly furnished me with the advance sheets of the late Shankar Pandurang
+Pandit's scholarly edition of the AV. with Sayana's commentary, as also with
+many of the readings of the Cashmir text (the so-called Paippalada-sakha) of
+the AV. Neither the Paippalada nor Sayana sensibly relieves the task of its
+difficulty and responsibility.
+
+							    MAURICE BLOOMFIELD.
+						      JOHNS HOPKINS UNIVERSITY,
+							BALTIMORE: April, 1896.
+================================================================================
